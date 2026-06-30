@@ -118,7 +118,6 @@ To validate these hypotheses, I would request:
 - Refund Cost
 - Region-wise performance
 - Fulfillment Center performance
-- Seller Type performance
 
 ---
 
